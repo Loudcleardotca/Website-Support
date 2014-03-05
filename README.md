@@ -1,35 +1,3 @@
-
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    Loudcleardotca Loudcleardotca
-
-    1
-    0
-    0
-
-public Loudcleardotca / Website-Support
-
-Website-Support / website-support.html
-Loudcleardotca Loudcleardotca 12 minutes ago
-Website Support Initial Commit
-
-1 contributor
-file 99 lines (95 sloc) 9.331 kb
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 	
-
-<!DOCTYPE html><html>
-    <head>
-        <meta charset="utf-8">
-                <title>Website Support</title> <meta name="viewport" content="width=device-width">
-                                                                                   
-            </head>
-    <body>
-     
-    
 <h1>Website Support</h1>
 <p>Our sites are optimized for modern&nbsp;<a href="http://whatbrowser.org/" target="_blank">browsers</a>&nbsp;with an equivalent experience available for slightly older versions of modern browsers. If you are experiencing unusual layout or functionality issues, you may need to upgrade your browser or clear your cache.</p>
 <p>Not sure what browser you have? <a href="http://whatbrowser.org/" target="_blank">Check here</a>. We do not design or support versions of Internet Explorer 7 or less.&nbsp;</p>
@@ -117,19 +85,4 @@ file 99 lines (95 sloc) 9.331 kb
 <li><a href="http://www.take-a-screenshot.org/" target="_blank">a screenshot</a>&nbsp;of the page (so we can see what you're seeing)</li>
 </ul>
 <div>You can send any error reports to&nbsp;<a href="mailto:web@loudclear.ca" target="_blank">web@loudclear.ca</a></div>
-  </body>
-</html>
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2014 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
 
